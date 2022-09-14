@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T14:26:47.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8NE4-R2sm5kXNUeO3I8s" version="20.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-09-14T14:27:13.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="jVfwgFWC3UcMZcIE9iRb" version="20.3.0" type="github" pages="5">
   <diagram id="qwD1yzsAdzEnuX6LzBur" name="exer - 1">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -872,7 +872,7 @@
         <mxCell id="sFL8x0DM-iU75ZIWXPkQ-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="422" y="160" width="36" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sFL8x0DM-iU75ZIWXPkQ-2" value="pessoa" style="whiteSpace=wrap;html=1;align=center;fontSize=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="sFL8x0DM-iU75ZIWXPkQ-2" value="pessoa" style="whiteSpace=wrap;html=1;align=center;fontSize=10;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="407.5" y="120" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sFL8x0DM-iU75ZIWXPkQ-3" value="cliente" style="whiteSpace=wrap;html=1;align=center;fontSize=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
